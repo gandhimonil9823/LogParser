@@ -1,0 +1,12 @@
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\bin\Debug\AgentParser.exe.config
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\bin\Debug\AgentParser.exe
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\bin\Debug\AgentParser.pdb
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\bin\Debug\AgentParser.xml
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\obj\Debug\AgentParser.vbprojAssemblyReference.cache
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\obj\Debug\AgentParser.Form1.resources
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\obj\Debug\AgentParser.Resources.resources
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\obj\Debug\AgentParser.vbproj.GenerateResource.cache
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\obj\Debug\AgentParser.vbproj.CoreCompileInputs.cache
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\obj\Debug\AgentParser.exe
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\obj\Debug\AgentParser.xml
+c:\users\mgandhi\source\repos\AgentParser\AgentParser\obj\Debug\AgentParser.pdb

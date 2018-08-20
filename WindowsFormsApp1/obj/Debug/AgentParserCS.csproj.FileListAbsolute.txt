@@ -1,0 +1,10 @@
+c:\users\mgandhi\source\repos\AgentParser\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\mgandhi\source\repos\AgentParser\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\mgandhi\source\repos\AgentParser\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\mgandhi\source\repos\AgentParser\WindowsFormsApp1\obj\Debug\AgentParserCS.csprojAssemblyReference.cache
+c:\users\mgandhi\source\repos\AgentParser\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\mgandhi\source\repos\AgentParser\WindowsFormsApp1\obj\Debug\AgentParserCS.csproj.GenerateResource.cache
+c:\users\mgandhi\source\repos\AgentParser\WindowsFormsApp1\obj\Debug\AgentParserCS.csproj.CoreCompileInputs.cache
+c:\users\mgandhi\source\repos\AgentParser\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\mgandhi\source\repos\AgentParser\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MGandhi\source\repos\AgentParser\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
